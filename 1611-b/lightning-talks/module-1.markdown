@@ -119,8 +119,8 @@ Outline:
 Max Glassie:
 
 Outline:
-
-
+How to learn Chinese characters - radicals to more complex characters
+ex: 土 出 其 石 to 基 础
 
 Phyllis Hugnien:
 
