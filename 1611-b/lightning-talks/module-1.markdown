@@ -124,7 +124,7 @@ Outline:
 
 Max Glassie: The Best Way to Learn Chinese Characters
 
-Outline:
+Outline: https://gist.github.com/maxglassie/478c1393bbea3c5e9b2fc63a006b8d58
 
 
 Phyllis Hugnien:
