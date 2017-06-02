@@ -1,3 +1,8 @@
+### Project Links
+* [The Howler Production](https://the-howler.herokuapp.com/)
+* [The Howler Repo](https://github.com/CjMoore/howler)
+* [The Howler Chrome Extension Repo](https://github.com/CjMoore/howler-extension)
+
 ### 1. Project Management
 
 *   4: Tracker also documents feature related discussions
